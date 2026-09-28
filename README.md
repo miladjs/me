@@ -1,6 +1,6 @@
 # صفحهٔ شخصی میلاد رکن‌الدینی
 
-رزومهٔ تک‌صفحه‌ای فارسی با HTML، CSS و JavaScript، منتشرشده روی GitHub Pages.
+رزومهٔ تک‌صفحه‌ای فارسی با HTML، CSS و JavaScript، منتشرشده در [miladjs.com](https://miladjs.com/) روی GitHub Pages.
 
 ## اجرا
 
